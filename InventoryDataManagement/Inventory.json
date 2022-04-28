@@ -13,5 +13,15 @@
         "Name": "Wheat",
         "Weight": 5,
         "PricePerKg": 50,
+    },
+    {
+        "Name": "Carrot",
+        "Weight": 07,
+        "PricePerKg": 23,
+    },
+    {
+        "Name": "Onions",
+        "Weight": 9,
+        "PricePerKg": 60
     }
 ]

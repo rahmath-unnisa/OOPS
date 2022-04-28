@@ -1,0 +1,19 @@
+[
+    {
+        "StockName": "Apple",
+        "NumberOfShares": 1000,
+        "SharePrice":2500
+    },
+    {
+        "StockName": "Alphabet",
+        "NumberOfShares": 250,
+        "SharePrice":600
+    },
+    {
+        "StockName": "Tesla",
+        "NumberOfShares": 2500,
+        "SharePrice":4000
+    }
+]
+  
+

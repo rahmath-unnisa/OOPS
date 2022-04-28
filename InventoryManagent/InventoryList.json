@@ -1,0 +1,55 @@
+{
+    "ListOfRice": [
+        {
+            "Name": "BrownRice",
+            "Weight": 5,
+            "PricePerKg": 200
+        },
+        {
+            "Name": "SushiRice",
+            "Weight": 14,
+            "PricePerKg": 160
+        },
+        {
+            "Name": "SonaMasuri",
+            "Weight": 7,
+            "PricePerKg": 40
+        }
+
+    ],
+    "ListOfPulses": [
+        {
+            "Name": "Lentils",
+            "Weight": 3,
+            "PricePerKg": 20
+        },
+        {
+            "Name": "Chickpeas",
+            "Weight": 14,
+            "PricePerKg": 60
+        },
+        {
+            "Name": "Beans",
+            "Weight": 8,
+            "PricePerKg": 10
+        }
+
+    ],
+    "ListOfWheat": [
+        {
+            "Name": "Durum",
+            "Weight": 10,
+            "PricePerKg": 250
+        },
+        {
+            "Name": "Khorasan",
+            "Weight": 3,
+            "PricePerKg": 50
+        },
+        {
+            "Name": "Emmer",
+            "Weight": 9,
+            "PricePerKg": 400
+        }
+    ]
+}
